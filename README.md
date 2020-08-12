@@ -1,11 +1,13 @@
 ### Hi, I'm Gal
 
 ## I'm a Husband, Developer, and a Maker!
-- 🔭 I’m currently working on a [VS Code Course][website]!
-- 🌱 I’m currently learning ROS2 🤣
+<!-- - 🔭 I’m currently working on a [VS Code Course][website]! -->
+- 🌱 I’m currently learning [ROS2](https://index.ros.org/doc/ros2/Tutorials/) 🤣
+- :gem: I'm improving my C++ skills (thanks to [TheCherno](https://youtu.be/18c3MTX0PK0) :wave:)
+- ⚡ Fun fact: I love to make stuff :hammer: & play video games :video_game:
 <!-- - 👯 I’m looking to collaborate with other content creators -->
 <!-- - 🥅 2020 Goals: Contribute more to Open Source projects -->
-<!-- - ⚡ Fun fact: I love to draw and play guitar / drums -->
+
 
 ### Connect with me:
 
