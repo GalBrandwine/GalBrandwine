@@ -1,7 +1,7 @@
 ### Hi, I'm Gal
 
 ## I'm a Husband, Developer, and a Maker!
-<!-- - 🔭 I’m currently working on a [VS Code Course][website]! -->
+- 🔭 I’m currently working on a [VS Code Course][website]!
 - 🌱 I’m currently learning ROS2 🤣
 <!-- - 👯 I’m looking to collaborate with other content creators -->
 <!-- - 🥅 2020 Goals: Contribute more to Open Source projects -->
@@ -15,7 +15,7 @@
 
 <br />
 
-### Languages and Tools:
+<!-- ### Languages and Tools: -->
 
 <!-- [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
@@ -49,15 +49,16 @@
 - [HalloPy](https://www.youtube.com/watch?v=6THFNt_5LNg)
 <!-- YOUTUBE:END -->
 
----
+<!-- --- -->
 
-### 📕 Latest Blog Posts
+<!-- ### 📕 Latest Blog Posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-<!-- <img align="left" alt="GalBrandwine's Github Stats" src="https://github-readme-stats.GalBrandwine.vercel.app/api?username=GalBrandwine&show_icons=true&hide_border=true" /> -->
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GalBrandwine)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [website]: http://whatimade.today/author/galbrandwine/
 <!-- [twitter]: https://twitter.com/codeSTACKr -->
