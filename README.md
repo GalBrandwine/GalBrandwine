@@ -55,6 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to fix cheap dogs hair clipper](http://www.whatimade.today/how-to-fix-cheap-dogs-hair-clipper/)
+- [Installing ROS docker with GPU support, for controlling DJI's Tello drone.](http://www.whatimade.today/installing-ros-docker-with-gpu-support-for-controlling-djis-tello-drone/)
+- [Adding IOT capabilities to an old automatic watering system for 3$ with ESP32 & MOSFET](http://www.whatimade.today/adding-iot-capabilities-to-an-old-automatic-watering-system-for-3-with-esp32-mosfet/)
+- [Getting started with docker](http://www.whatimade.today/getting-started-with-docker/)
+- [WHO DRIVES BETTER? - a driving scoring device](http://www.whatimade.today/who-drives-better-a-driving-scoring-device/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
