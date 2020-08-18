@@ -51,7 +51,7 @@
 - [HalloPy](https://www.youtube.com/watch?v=6THFNt_5LNg)
 <!-- YOUTUBE:END -->
 
-<!-- --- -->
+---
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
