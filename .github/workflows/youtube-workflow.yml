@@ -1,4 +1,4 @@
-name: Latest YouTube Videos
+name: Latest YouTube Videos1
 on:
   schedule:
     # Runs every hour
