@@ -44,11 +44,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [ROS2 tello_driver](https://www.youtube.com/watch?v=9Yc8RFS7I0o)
 - [Smart watering system, final result :)](https://www.youtube.com/watch?v=EuKUQSQnuws)
 - [Smart watering system, using a mosfet.](https://www.youtube.com/watch?v=IDWeykZHRiA)
 - [Operating  autatic watering system motor](https://www.youtube.com/watch?v=5sDThujRXQY)
 - [Smart watering project](https://www.youtube.com/watch?v=M0nEY00O3Ms)
-- [HalloPy](https://www.youtube.com/watch?v=6THFNt_5LNg)
 <!-- YOUTUBE:END -->
 
 ---
