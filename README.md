@@ -2,7 +2,8 @@
 
 ## I'm a Husband, Developer, and a Maker!
 <!-- - 🔭 I’m currently working on a [VS Code Course][website]! -->
-- 🌱 I’m currently learning [ROS2](https://index.ros.org/doc/ros2/Tutorials/) 🤣
+- :nerd_face: Iv'e started to work on an official ROS2 tello\_driver package :helicopter:
+- 🌱 I’ve recently finished all [ROS2](https://index.ros.org/doc/ros2/Tutorials/) tutorials 🤣
 - :gem: I'm improving my C++ skills (thanks to [TheCherno](https://youtu.be/18c3MTX0PK0) :wave:)
 - ⚡ Fun fact: I love to make stuff :hammer: & play video games :video_game:
 <!-- - 👯 I’m looking to collaborate with other content creators -->
@@ -11,9 +12,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="http://whatimade.today/author/galbrandwine/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="youtube | gal brandwine" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="linkedin | gal brandwine" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
