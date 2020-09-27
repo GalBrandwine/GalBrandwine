@@ -56,11 +56,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [ROS2 - Helping the community [part2]](http://www.whatimade.today/ros2-helping-the-community-part2-2/)
 - [ROS2 - Helping the community](http://www.whatimade.today/ros2-helping-the-community/)
 - [How to fix cheap dogs hair clipper](http://www.whatimade.today/how-to-fix-cheap-dogs-hair-clipper/)
 - [Installing ROS docker with GPU support, for controlling DJI's Tello drone.](http://www.whatimade.today/installing-ros-docker-with-gpu-support-for-controlling-djis-tello-drone/)
 - [Adding IOT capabilities to an old automatic watering system for 3$ with ESP32 & MOSFET](http://www.whatimade.today/adding-iot-capabilities-to-an-old-automatic-watering-system-for-3-with-esp32-mosfet/)
-- [Getting started with docker](http://www.whatimade.today/getting-started-with-docker/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
