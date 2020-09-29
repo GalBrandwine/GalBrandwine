@@ -3,7 +3,7 @@
 ## I'm a Husband, Developer, and a Maker!
 <!-- - 🔭 I’m currently working on a [VS Code Course][website]! -->
 - :nerd_face: Iv'e started to work on an official ROS2 tello\_driver package :helicopter:
-- 🌱 I’ve recently finished all [ROS2](https://index.ros.org/doc/ros2/Tutorials/) tutorials 🤣
+- 🌱 I recently finished all [ROS2](https://index.ros.org/doc/ros2/Tutorials/) tutorials 🤣
 - :gem: I'm improving my C++ skills (thanks to [TheCherno](https://youtu.be/18c3MTX0PK0) :wave:)
 - ⚡ Fun fact: I love to make stuff :hammer: & play video games :video_game:
 <!-- - 👯 I’m looking to collaborate with other content creators -->
