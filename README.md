@@ -56,11 +56,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to build a boutique lamp in 1 Hour*](http://www.whatimade.today/how-to-build-a-boutique-lamp-in-1-hour/)
 - [ROS2 - Helping the community [part2]](http://www.whatimade.today/ros2-helping-the-community-part2-2/)
 - [ROS2 - Helping the community](http://www.whatimade.today/ros2-helping-the-community/)
 - [How to fix cheap dogs hair clipper](http://www.whatimade.today/how-to-fix-cheap-dogs-hair-clipper/)
 - [Installing ROS docker with GPU support, for controlling DJI's Tello drone.](http://www.whatimade.today/installing-ros-docker-with-gpu-support-for-controlling-djis-tello-drone/)
-- [Adding IOT capabilities to an old automatic watering system for 3$ with ESP32 & MOSFET](http://www.whatimade.today/adding-iot-capabilities-to-an-old-automatic-watering-system-for-3-with-esp32-mosfet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
