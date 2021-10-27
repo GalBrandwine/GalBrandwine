@@ -45,11 +45,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Smart cloud-like lighting system, that has lightnings](https://www.youtube.com/watch?v=kkQ7HQCaRI0)
+- [Learn how to use doxygen](https://www.youtube.com/watch?v=q87h14Dc5vE)
+- [Tello Throw And Go Test](https://www.youtube.com/watch?v=IDwNyA5tYtA)
 - [ROS2 tello_driver](https://www.youtube.com/watch?v=9Yc8RFS7I0o)
 - [Smart watering system, final result :)](https://www.youtube.com/watch?v=EuKUQSQnuws)
-- [Smart watering system, using a mosfet.](https://www.youtube.com/watch?v=IDWeykZHRiA)
-- [Operating  autatic watering system motor](https://www.youtube.com/watch?v=5sDThujRXQY)
-- [Smart watering project](https://www.youtube.com/watch?v=M0nEY00O3Ms)
 <!-- YOUTUBE:END -->
 
 ---
