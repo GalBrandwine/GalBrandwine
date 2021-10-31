@@ -1,7 +1,7 @@
 ### Hi, I'm Gal
 
 ## I'm a Husband, Developer, and a Maker!
-- 🔭 I write blogs [website]! -->
+- 🔭 I write blogs [blogs]! 🧰
 - :nerd_face: Iv'e started to work on an official ROS2 tello\_driver package :helicopter:
 - 🌱 I recently finished all [ROS2](https://index.ros.org/doc/ros2/Tutorials/) tutorials 🤣
 - :gem: I'm improving my C++ skills (thanks to [TheCherno](https://youtu.be/18c3MTX0PK0) :wave:)
@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="http://whatimade.today/author/galbrandwine/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="http://whatimade.today/author/galbrandwine/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][blogs]
 [<img align="left" alt="youtube | gal brandwine" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="linkedin | gal brandwine" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
@@ -68,7 +68,7 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GalBrandwine)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[website]: http://whatimade.today/author/galbrandwine/
+[blogs]: http://whatimade.today/author/galbrandwine/
 <!-- [twitter]: https://twitter.com/codeSTACKr -->
 [youtube]: https://youtube.com/user/gal080592
 <!-- [instagram]: https://instagram.com/codeSTACKr -->
