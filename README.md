@@ -58,8 +58,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [Today I made an NTP synchronized smart-lamp](http://www.whatimade.today/today-i-made-an-ntp-synchronized-smart-lamp/)
 - [Today I made a smart cloud-like lamp](http://www.whatimade.today/today-i-made-a-smart-cloud-like-lamp/)
-- [Today I've learned how to use cement!](http://www.whatimade.today/today-ive-learned-how-to-use-cement/)
-- [Learn how to use VSCode with ESP32 & Arduino](http://www.whatimade.today/learn-how-to-use-vscode-with-esp32/)
+- [Today I&#39;ve learned how to use cement!](http://www.whatimade.today/today-ive-learned-how-to-use-cement/)
+- [Learn how to use VSCode with ESP32 &amp; Arduino](http://www.whatimade.today/learn-how-to-use-vscode-with-esp32/)
 - [Learn how to use doxygen](http://www.whatimade.today/learn-how-to-use-doxygen/)
 <!-- BLOG-POST-LIST:END -->
 
