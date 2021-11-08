@@ -49,7 +49,7 @@
 - [Learn how to use doxygen](https://www.youtube.com/watch?v=q87h14Dc5vE)
 - [Tello Throw And Go Test](https://www.youtube.com/watch?v=IDwNyA5tYtA)
 - [ROS2 tello_driver](https://www.youtube.com/watch?v=9Yc8RFS7I0o)
-- [Smart watering system, final result :)](https://www.youtube.com/watch?v=EuKUQSQnuws)
+- [Smart watering system, final result :&rpar;](https://www.youtube.com/watch?v=EuKUQSQnuws)
 <!-- YOUTUBE:END -->
 
 ---
